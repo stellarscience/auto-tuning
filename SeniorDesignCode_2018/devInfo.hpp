@@ -36,7 +36,5 @@
 
 void clPrintDevInfo(cl_device_id device);
 int devicequery(void);
-//void randomMemInit(float* data, int size);
-//long LoadOpenCLKernel(char const* path, char **buf);
 
 #endif
